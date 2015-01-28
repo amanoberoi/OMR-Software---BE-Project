@@ -1,0 +1,23 @@
+﻿<Window x:Class="UI_WPF.StartScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StartScreen" Height="655.005" Width="886.757" WindowState="Maximized" Loaded="Window_Loaded">
+    <Grid Name="grid_Main">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Menu x:Name="main_menu" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="{Binding ActualWidth, ElementName=grid_Main}" Margin="0,0,-743,0">
+            <MenuItem Header="Single Scan" Height="33" Width="126" FontSize="20" Click="MenuItem_Click"/>
+            <MenuItem Header="Answer Key" Width="130" FontSize="20" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Result DB" FontSize="20" Width="114" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Help" FontSize="20" Width="117" >
+                <MenuItem Header="View Help" Click="MenuItem_Click_4"/>
+                <MenuItem Header="About OMR Software Inc." Click="MenuItem_Click_5"/>
+            </MenuItem>
+            <MenuItem Header="" Width="119" FontSize="20" Click="MenuItem_Click_1"/>
+
+        </Menu>
+        <Image x:Name="imgbox_logo" HorizontalAlignment="Left" Height="301" Margin="203,154,0,0" VerticalAlignment="Top" Source="C:\Users\ani\Google Drive\Final Year Project\alpha_run\UI_WPF\UI_WPF\logo.png" Width="496" Stretch="Fill"/>
+
+    </Grid>
+</Window>

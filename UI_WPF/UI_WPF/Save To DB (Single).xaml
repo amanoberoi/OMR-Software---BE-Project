@@ -1,0 +1,24 @@
+﻿<Window x:Class="UI_WPF.Save_To_DB__Single_"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Save_To_DB__Single_" Height="326.132" Width="406.62" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Roll No:" HorizontalAlignment="Left" Margin="40,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Subject Code:" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top"/>
+        <Label Content="QP Code:" HorizontalAlignment="Left" Margin="33,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Marks:" HorizontalAlignment="Left" Margin="47,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Select Department:" HorizontalAlignment="Left" Margin="47,195,0,0" VerticalAlignment="Top"/>
+        <Label Content="Select Year: " HorizontalAlignment="Left" Margin="228,195,0,0" VerticalAlignment="Top"/>
+        <Label Content="Save to Database :-" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <Button Content="Save to DB" Name="btn_save" HorizontalAlignment="Left" Margin="108,269,0,0" VerticalAlignment="Top" Width="75" Click="btn_save_Click"/>
+        <Button Content="Discard" Name="btn_discard" HorizontalAlignment="Left" Margin="211,269,0,0" VerticalAlignment="Top" Width="75" Click="btn_discard_Click"/>
+        <ComboBox Name="dept" HorizontalAlignment="Left" Margin="43,223,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="year" HorizontalAlignment="Left" Margin="228,223,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Label" Name="lbl_roll" HorizontalAlignment="Left" Margin="93,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" Name="lbl_subject" HorizontalAlignment="Left" Margin="93,64,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" Name="lbl_qp" HorizontalAlignment="Left" Margin="93,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" Name="lbl_marks" HorizontalAlignment="Left" Margin="94,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="*Please Select a department." Name="dept_label" Foreground="Red" HorizontalAlignment="Left" Margin="35,246,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

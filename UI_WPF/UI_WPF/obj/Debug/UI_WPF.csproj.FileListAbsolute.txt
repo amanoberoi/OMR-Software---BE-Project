@@ -1,0 +1,122 @@
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe.config
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\bin\Debug\UI_WPF.pdb
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csprojResolveAssemblyReference.cache
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\MainWindow.baml
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\MainWindow.g.cs
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\App.g.cs
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF_MarkupCompile.cache
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.g.resources
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.Properties.Resources.resources
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csproj.GenerateResource.Cache
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.exe
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\UI_WPF.pdb
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.baml
+c:\users\aman\documents\visual studio 2012\Projects\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe.config
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.exe
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.pdb
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.pdb
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\MainWindow.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\App.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF_MarkupCompile.cache
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.g.resources
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.Properties.Resources.resources
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csproj.GenerateResource.Cache
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\About.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\ResultDB.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\StartScreen.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\About.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\ResultDB.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\StartScreen.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\AnswerKey.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\AnswerKey.g.cs
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Help.baml
+C:\Users\Aman\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Help.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe.config
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.exe
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.pdb
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\bin\Debug\UI_WPF.pdb
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\About.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\AnswerKey.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Help.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\ResultDB.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\StartScreen.baml
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\About.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\AnswerKey.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Help.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\ResultDB.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\StartScreen.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\App.g.cs
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF_MarkupCompile.cache
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.g.resources
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.Properties.Resources.resources
+C:\Users\Admin\Google Drive\Final Year Project\Implementation\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csproj.GenerateResource.Cache
+D:\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe.config
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.exe
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.pdb
+D:\UI_WPF\UI_WPF\bin\Debug\UI_WPF.exe
+D:\UI_WPF\UI_WPF\bin\Debug\UI_WPF.pdb
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csprojResolveAssemblyReference.cache
+D:\UI_WPF\UI_WPF\obj\Debug\About.baml
+D:\UI_WPF\UI_WPF\obj\Debug\AnswerKey.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Help.baml
+D:\UI_WPF\UI_WPF\obj\Debug\MainWindow.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.baml
+D:\UI_WPF\UI_WPF\obj\Debug\ResultDB.baml
+D:\UI_WPF\UI_WPF\obj\Debug\StartScreen.baml
+D:\UI_WPF\UI_WPF\obj\Debug\About.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\AnswerKey.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Help.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\MainWindow.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Multi-Scan.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\ResultDB.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\StartScreen.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\App.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF_MarkupCompile.cache
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.g.resources
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.Properties.Resources.resources
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csproj.GenerateResource.Cache
+D:\UI_WPF\UI_WPF\obj\Debug\Interop.WIA.dll
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF.csproj.ResolveComReference.cache
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.dll
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.Imaging.dll
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.Math.dll
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.xml
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.Imaging.xml
+D:\UI_WPF\UI_WPF\bin\Debug\AForge.Math.xml
+D:\UI_WPF\UI_WPF\bin\Debug\Interop.WIA.dll
+D:\UI_WPF\UI_WPF\obj\Debug\Create Answer Key.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Create Answer Key.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Select_DPI.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Select_DPI.g.cs
+D:\UI_WPF\UI_WPF\bin\Debug\x64\SQLite.Interop.dll
+D:\UI_WPF\UI_WPF\bin\Debug\x86\SQLite.Interop.dll
+D:\UI_WPF\UI_WPF\bin\Debug\EntityFramework.dll
+D:\UI_WPF\UI_WPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\UI_WPF\UI_WPF\bin\Debug\System.Data.SQLite.dll
+D:\UI_WPF\UI_WPF\bin\Debug\System.Data.SQLite.EF6.dll
+D:\UI_WPF\UI_WPF\bin\Debug\System.Data.SQLite.Linq.dll
+D:\UI_WPF\UI_WPF\bin\Debug\EntityFramework.xml
+D:\UI_WPF\UI_WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\UI_WPF\UI_WPF\bin\Debug\System.Data.SQLite.xml
+D:\UI_WPF\UI_WPF\obj\Debug\UI_WPF_Content.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Database.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Database.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Save To DB (Single).baml
+D:\UI_WPF\UI_WPF\obj\Debug\Save To DB (Single).g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Save to DB.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Save to DB.g.cs
+D:\UI_WPF\UI_WPF\obj\Debug\Get Answer.baml
+D:\UI_WPF\UI_WPF\obj\Debug\Get Answer.g.cs

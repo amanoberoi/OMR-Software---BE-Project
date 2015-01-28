@@ -1,0 +1,26 @@
+﻿<Window x:Class="UI_WPF.ResultDB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ResultDB" Height="408.271" Width="672.18" WindowState="Maximized">
+    <Grid Name="grid_Main">
+        <Menu HorizontalAlignment="Left" Height="34" VerticalAlignment="Top" FontSize="16" Margin="0,-1,0,0"/>
+        <Menu x:Name="main_menu" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="{Binding ActualWidth, ElementName=grid_Main}" Margin="0,0,-302,0">
+            <MenuItem Header="Single Scan" Height="33" Width="126" FontSize="20" Click="MenuItem_Click"/>
+            <MenuItem Header="Answer Key" Width="130" FontSize="20" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Result DB" FontSize="20" Width="114" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Help" FontSize="20" Width="117" >
+                <MenuItem Header="View Help" Click="MenuItem_Click_4"/>
+                <MenuItem Header="About OMR Software Inc." Click="MenuItem_Click_5"/>
+            </MenuItem>
+            <MenuItem Header="" Width="119" FontSize="20" Click="MenuItem_Click_1"/>
+
+        </Menu>
+        <ComboBox x:Name="cmb_box_dept" HorizontalAlignment="Left" Margin="201,136,0,0" VerticalAlignment="Top" Width="120" Height="29" Loaded="ComboBox_Loaded"/>
+        <Label Content="Select Department :" HorizontalAlignment="Left" Margin="44,136,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <ComboBox x:Name="cmb_box_year" HorizontalAlignment="Left" Margin="509,136,0,0" VerticalAlignment="Top" Width="120" Height="29" Loaded="cmb_box_year_Loaded"/>
+        <Label Content="Select Year:" HorizontalAlignment="Left" Margin="409,136,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="View Database" HorizontalAlignment="Left" Margin="220,271,0,0" VerticalAlignment="Top" Width="123" Height="30" Click="Button_Click"/>
+        <Label Content="*Select a department."  Name="dept_label" HorizontalAlignment="Left" Margin="44,188,0,0" VerticalAlignment="Top" Width="168" FontSize="14" Foreground="Red" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

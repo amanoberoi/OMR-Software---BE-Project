@@ -1,0 +1,27 @@
+﻿<Window x:Class="UI_WPF.Database"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Database" Height="697.624" Width="1018.387"
+        WindowState="Maximized">
+    <Grid>
+        <ListView x:Name="datagrid" HorizontalAlignment="Left" Height="523" Margin="10,10,0,0" VerticalAlignment="Top" Width="990" ItemsSource="{Binding Path=Table}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Sheet ID" DisplayMemberBinding="{Binding Path=id}"/>
+                    <GridViewColumn Header="Roll Number" DisplayMemberBinding="{Binding Path=roll_no}"/>
+                    <GridViewColumn Header="Subject Code" DisplayMemberBinding="{Binding Path=sub_code}"/>
+                    <GridViewColumn Header="Question Paper Code" Width="50" DisplayMemberBinding="{Binding Path=qpaper_code}"/>
+                    <GridViewColumn Header="Marks" DisplayMemberBinding="{Binding Path=marks}"/>
+                    <GridViewColumn Header="Result" DisplayMemberBinding="{Binding Path=result}"/>
+                    <GridViewColumn Header="View Sheet" Width="140" DisplayMemberBinding="{Binding Path=view_sheet}"/>
+                    <GridViewColumn Header="Answer Key" Width="140" DisplayMemberBinding="{Binding Path=answer_key}"/>
+                    <GridViewColumn Header="Timestamp" DisplayMemberBinding="{Binding Path=time_stamp}"/>
+                    <GridViewColumn Header="Year" DisplayMemberBinding="{Binding Path=year}"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btn_ok" Content="OK" HorizontalAlignment="Left" Margin="873,599,0,0" VerticalAlignment="Top" Width="94" Click="btn_ok_Click" Height="34"/>
+
+    </Grid>
+</Window>

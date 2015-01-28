@@ -1,0 +1,21 @@
+﻿<Window x:Class="UI_WPF.AnswerKey"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AnswerKey" Height="868.421" Width="683.459" WindowState="Maximized">
+    <Grid Name="grid_Main">
+        <Menu x:Name="main_menu" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="{Binding ActualWidth, ElementName=grid_Main}" Margin="0,0,-360,0">
+            <MenuItem Header="Single Scan" Height="33" Width="126" FontSize="20" Click="MenuItem_Click"/>
+            <MenuItem Header="Answer Key" Width="130" FontSize="20" Click="MenuItem_Click_2"/>
+            <MenuItem Header="Result DB" FontSize="20" Width="114" Click="MenuItem_Click_3"/>
+            <MenuItem Header="Help" FontSize="20" Width="117" >
+                <MenuItem Header="View Help" Click="MenuItem_Click_4"/>
+                <MenuItem Header="About OMR Software Inc." Click="MenuItem_Click_5"/>
+            </MenuItem>
+            <MenuItem Header="" Width="119" FontSize="20" Click="MenuItem_Click_1"/>
+
+        </Menu>
+        <Button x:Name="btn_new_anskey" Content="Create a new answer key." HorizontalAlignment="Left" VerticalAlignment="Top" Width="281" Margin="170,154,0,0" Height="47" Click="btn_new_anskey_Click"/>
+        <Button x:Name="btn_select_anskey" Content="Select Previously created answer key." HorizontalAlignment="Left" VerticalAlignment="Top" Width="281" Margin="170,272,0,0" Height="53" Click="btn_select_anskey_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+﻿<Window x:Class="UI_WPF.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Help" Height="483.497" Width="695.864" FontFamily="Garamond">
+    <Grid>
+        <Button Content="Back to HOME" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Margin="285,372,0,0" Height="23" Click="Button_Click"/>
+        <Label Content="How to use OMRSoft Inc.?&#xD;&#xA;(Please ensure that your scanner is properly installed with appropriate drivers)&#xD;&#xA;&#xD;&#xA;1. Before starting the scanning or processing of any OMR sheet you need to&#xD;&#xA;    select an answer key for that particular set of questions.&#xD;&#xA;2. Then start the process by browsing and selecting an XML template.&#xD;&#xA;3. Select the dpi supported by your scanner.&#xD;&#xA;4. After the scan is finished you can view the scanned OMR sheet alongside.&#xD;&#xA;5. You can now process the sheet to evaluate it.&#xD;&#xA;6. On completion of the evaluation there shall open a window displaying the &#xD;&#xA;    details of the sheet along with the result. You can now save the results into &#xD;&#xA;    the database wherever necessary or even discard it.&#xD;&#xA;7. You can view all the results stored till date from the result database.&#xD;&#xA;     " HorizontalAlignment="Left" Margin="72,63,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.15,0.176" Height="288" Width="584" FontFamily="Georgia" FontSize="16"/>
+
+    </Grid>
+</Window>
